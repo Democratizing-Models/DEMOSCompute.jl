@@ -1,0 +1,10 @@
+name = "DEMOSCompute"
+uuid = "e651d199-012e-46ac-a6ab-eb7efd0bfa50"
+authors = ["Anton Reinhard <a.reinhard@hzdr.de>"]
+version = "0.1.0"
+
+[workspace]
+projects = ["test", "docs"]
+
+[compat]
+julia = "1.10"
